@@ -7,7 +7,7 @@
 
     <body>
         <center>
-            <h1> Welcome to my website </h1>
+            <h1> Welcome </h1>
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg" width="180px" height="120px">
         </center>
         
