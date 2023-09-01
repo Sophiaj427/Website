@@ -8,7 +8,7 @@
     <body>
         <center>
             <h1> Welcome </h1>
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fengineering&psig=AOvVaw39EcM8ibZERZKEN-MIN_BF&ust=1693686161268000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCODYremeioEDFQAAAAAdAAAAABAY" width="180px" height="120px">
+            <img src="https://media.istockphoto.com/id/1394894776/photo/mechanical-project-blueprint.webp?b=1&s=170667a&w=0&k=20&c=zZL84yBLvmoRC4ae6mfhkqh_2D0SzGm_A0KEO8bKlHc=" width="180px" height="120px">
         </center>
         
         <hr><br><br>
