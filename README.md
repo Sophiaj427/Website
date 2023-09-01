@@ -8,7 +8,7 @@
     <body>
         <center>
             <h1> Welcome </h1>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/NGC_4414_%28NASA-med%29.jpg" width="180px" height="120px">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fengineering&psig=AOvVaw39EcM8ibZERZKEN-MIN_BF&ust=1693686161268000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCODYremeioEDFQAAAAAdAAAAABAY" width="180px" height="120px">
         </center>
         
         <hr><br><br>
@@ -26,6 +26,7 @@
                in our groups on planning the design of our Rube Goldberg machine. We CADed a 3D model of it on <br>
                TinkerCad, and tryed to test it out. It's going to take a little more planning. On frieday we <br>
                CADed a home applience,I made a microwave. WHich I think turned out well. <br>
+               
         </p>
 
       
