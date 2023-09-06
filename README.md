@@ -21,7 +21,9 @@
             together to make a plan and almost succeeded. Our group made it to the end but unfortunately it <br>
             bounced off and did not make it in the bucket. But over all I had a great time! <br>
             8/31/23 Week 2 <br>
-               It has been a fun week. We learned all about the differnt sections of engineering. Mechanical <br> 
+            <br>
+            <
+            It has been a fun week. We learned all about the differnt sections of engineering. Mechanical <br> 
                engineering is the oldest and extensive engineering branches. This week we also started working <br> 
                in our groups on planning the design of our Rube Goldberg machine. We CADed a 3D model of it on <br>
                TinkerCad, and tryed to test it out. It's going to take a little more planning. On frieday we <br>
