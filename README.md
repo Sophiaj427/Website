@@ -1,8 +1,8 @@
-<html>
+html>
     <body style="background-color:Grey;">
 
     <header>
-        <style="font-family:verdana"> 
+        <title style="font-family:verdana">  Sophia's website </title>
     </header>
 
     <body>
@@ -21,7 +21,7 @@
             together to make a plan and almost succeeded. Our group made it to the end but unfortunately it <br>
             bounced off and did not make it in the bucket. But over all I had a great time! <br>
             <br>
-               <img src="https://im5.ezgif.com/tmp/ezgif-5-b6e84d394d.png" width="360px" height="240px"> 
+               <img src="microwave.png" width="360px" height="240px"> 
             <br>
             8/31/23 Week 2 <br>
             It has been a fun week. We learned all about the differnt sections of engineering. Mechanical <br> 
@@ -29,7 +29,15 @@
                in our groups on planning the design of our Rube Goldberg machine. We CADed a 3D model of it on <br>
                TinkerCad, and tryed to test it out. It's going to take a little more planning. On frieday we <br>
                CADed a home applience,I made a microwave. Which I think turned out well. <br>
-               
+               <br>
+               <img src="CAD.png" width="360px" height="240px"> 
+               <br>
+               9/7/23 Week 3 <br>
+               This week has gone by fast. We planned out our Rube goldburg design in tinker cad, and had to <br>
+               re-make it because our mesurements were off. But we did get the measurements in order. We were <br>
+               able to complete our design in tinkerCad.Thursday we started to build our design. We had thought <br>
+               it may be too long but the teacher approved. We measured and cut out the walls, and taped two of <br>
+               them together. Can't wait to complete it next week!
         </p>
 
       
