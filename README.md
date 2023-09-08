@@ -30,7 +30,7 @@
                TinkerCad, and tryed to test it out. It's going to take a little more planning. On frieday we <br>
                CADed a home applience,I made a microwave. Which I think turned out well. <br>
                <br>
-                   <img src="CAD.png" width="360px" height="240px"> 
+                   <img src="" width="360px" height="240px"> 
                <br>
                9/7/23 Week 3 <br>
                This week has gone by fast. We planned out our Rube goldburg design in tinker cad, and had to <br>
