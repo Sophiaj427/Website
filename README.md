@@ -21,7 +21,7 @@
             together to make a plan and almost succeeded. Our group made it to the end but unfortunately it <br>
             bounced off and did not make it in the bucket. But over all I had a great time! <br>
             <br>
-               <img src="microwave.png" width="360px" height="240px"> 
+               <img src="blob:chrome-untrusted://media-app/d9cd95b0-fbc2-4370-bc19-5ab33b36f2f1" width="360px" height="240px"> 
             <br>
             8/31/23 Week 2 <br>
             It has been a fun week. We learned all about the differnt sections of engineering. Mechanical <br> 
