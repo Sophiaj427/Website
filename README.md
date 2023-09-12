@@ -1,12 +1,9 @@
 <html>
-    <body style="background-color:Grey;">
-
-    <header>
-        <title style="font-family:verdana">  Sophia's website </title>
-    </header>
-
+    <body> <style="background-color:Grey;">
+<br><br>
     <body>
         <center>
+             </style="font-family:'verdana'" </style>
             <h1> Welcome </h1>
         <center> 
         <br>
@@ -29,8 +26,8 @@
             <br>
             8/31/23 Week 2 <br>
             It has been a fun week. We learned all about the differnt sections of engineering. Mechanical <br> 
-               engineering is the oldest and extensive engineering branches. This week we also started working <br> 
-               in our groups on planning the design of our Rube Goldberg machine. We CADed a 3D model of it on <br>
+               engineering is the oldest and most extensive of the engineering branches. This week we also started <br> 
+              working in our groups on planning the design of our Rube Goldberg machine. We CADed a 3D model of it on <br>
                TinkerCad, and tryed to test it out. It's going to take a little more planning. On frieday we <br>
                CADed a home applience,I made a microwave. Which I think turned out well. <br>
                <br>
@@ -44,5 +41,5 @@
                them together. Can't wait to complete it next week!<br>
         </p>
 
-      
-    </body>
+    <body>
+<html>
