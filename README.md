@@ -1,9 +1,12 @@
 <html>
-    <body> <style="background-color:Grey;">
-<br><br>
+    <body style="background-color:Grey;">
+
+    <header>
+        <title style="font-family:verdana"> </title>
+    </header>
+
     <body>
         <center>
-             </style="font-family:'verdana'" </style>
             <h1> Welcome </h1>
         <center> 
         <br>
@@ -41,5 +44,5 @@
                them together. Can't wait to complete it next week!<br>
         </p>
 
-    <body>
+     <body>
 <html>
