@@ -1,5 +1,5 @@
 <html>
-    <body style="background-color:Grey;">
+    <body style="background-color:6C6C6C;">
 
     <header>
         <title style="font-family:verdana"> </title>
@@ -42,6 +42,11 @@
                able to complete our design in tinkerCad.Thursday we started to build our design. We had thought <br>
                it may be too long but the teacher approved. We measured and cut out the walls, and taped two of <br>
                them together. Can't wait to complete it next week!<br>
+               <br>
+               <img src="" width="360" height"240">
+               <br>
+               9/11/23 Week 4 <br>
+               
         </p>
 
      <body>
