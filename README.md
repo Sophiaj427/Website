@@ -2,13 +2,11 @@
     <body style="background-color:6C6C6C;">
 
     <header>
-        <title style="font-family:verdana"> </title>
+       <h1> <marquee style="font-family:Comic Sans MS">  ...Welcome to Sophia's website, updated weekly...  </marquee> </h1>
     </header>
 
     <body>
-        <center>
-            <h1> Welcome </h1>
-        <center> 
+    
         <br>
         <br>
         
@@ -43,9 +41,14 @@
                it may be too long but the teacher approved. We measured and cut out the walls, and taped two of <br>
                them together. Can't wait to complete it next week!<br>
                <br>
-               <img src="" width="360" height"240">
+               <img src="" width="240" height"360">
                <br>
                9/11/23 Week 4 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
                
         </p>
 
