@@ -1,5 +1,5 @@
 <html>
-    <body style="background-color:4A6969;"> 
+    <body> <style="background-color:4A6969;"> 
 
     <header>
        <h1> <marquee style="font-family:Comic Sans MS">  ...Welcome to Sophia's website, updated weekly...  </marquee> </h1>
